@@ -19,6 +19,7 @@ class _MyAppState extends State<MyApp> {
         primarySwatch: Colors.brown,
       ),
       home: SignIn(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
